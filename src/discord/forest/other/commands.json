@@ -1,0 +1,35 @@
+[
+  
+  {
+    "name": "dns",
+    "description": "Domaine Name system ( DNS ) address check",
+    "syntax": "<prefix>dns <IP address/domaine>",
+    "return": "location, flags, TTL, ipv4 and ipv6"
+  }, {
+    "name": "http",
+    "description": "Hypertext Transfer Protocol ( HTTP ) check",
+    "syntax": "<prefix>http <IP address/domaine>",
+    "return": "IP address, location, flags, status code and time"
+  }, {
+    "name": "tcp",
+    "description": "Transmission Control Protocol ( TCP ) connection check",
+    "syntax": "<prefix>tcp <IP address/domaine>",
+    "return": "IP address, location, flags, and time"
+  }, {
+    "name": "ping",
+    "description": "Ping the mentioned server",
+    "syntax": "<prefix>ping <IP address/domaine>",
+    "return": "IP address, location, flags, result ( /4 ) and ms"
+  }, {
+    "name": "fivem",
+    "description": "Returns information from a fivem server",
+    "syntax": "<prefix>fivem <invite>",
+    "return": "Information from a fivem server"
+  }, {
+    "name": "login",
+    "description": "allows you to connect with your key that you will find on our site",
+    "syntax": "<prefix>login <your key> ( only in dm )",
+    "return": "Gives you your account and key information"
+  }
+
+]

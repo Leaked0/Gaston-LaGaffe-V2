@@ -1,0 +1,30 @@
+{
+  "name": "gaston-lagaffe-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/router.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObitoBinks/Gaston-LaGaffe-V2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObitoBinks/Gaston-LaGaffe-V2/issues"
+  },
+  "homepage": "https://github.com/ObitoBinks/Gaston-LaGaffe-V2#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "glob": "^7.1.7",
+    "http": "^0.0.1-security",
+    "mongoose": "^5.13.3",
+    "needle": "^3.0.0",
+    "path": "^0.12.7",
+    "session": "^0.1.0"
+  }
+}
