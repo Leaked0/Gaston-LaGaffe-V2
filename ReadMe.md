@@ -10,4 +10,6 @@ Owner skills
 + Firing for a proxy site(prolly less loool)
 + Ask people to make bots etc.. for him
 ```
-Wow this answer :(<br>![](https://i.imgur.com/0NJOTCe.png)![](https://i.imgur.com/tYUvtzi.gif)<br><!--Whoops Fortnite !-->![](https://i.imgur.com/HZhN7Yg.gif)<h1>Unranked for a proxy website loooooooool</h1>![](https://i.imgur.com/Sfxp8HG.gif)<br>![](https://i.imgur.com/9zrweo7.png)<br>![](https://i.imgur.com/pbbO4kJ.png)<br>![](https://i.imgur.com/qGtHrGa.gif)<br>![](https://i.imgur.com/CF0NDsU.gif)<br><h1>Il est simple de se plaindre pour une base que je n'ai pas faite :)</h1>![](https://i.imgur.com/3dfST3I.png)
+
+
+C'est marrant quand on sait que j'ai pas copié quoi que ce soit et que j'ai juste passé le bot sur la v13 et ajouté des commandes<br>https://github.com/Chakal-1337/gaston<br>Wow this answer :(<br>![](https://i.imgur.com/0NJOTCe.png)![](https://i.imgur.com/tYUvtzi.gif)<br><!--Whoops Fortnite !-->![](https://i.imgur.com/HZhN7Yg.gif)<h1>Unranked for a proxy website loooooooool</h1>![](https://i.imgur.com/Sfxp8HG.gif)<br>![](https://i.imgur.com/9zrweo7.png)<br>![](https://i.imgur.com/pbbO4kJ.png)<br>![](https://i.imgur.com/qGtHrGa.gif)<br>![](https://i.imgur.com/CF0NDsU.gif)<br><h1>Il est simple de se plaindre pour une base que je n'ai pas faite :)</h1>![](https://i.imgur.com/3dfST3I.png)
