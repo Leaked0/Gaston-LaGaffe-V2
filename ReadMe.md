@@ -17,4 +17,4 @@ C'est marrant quand on sait que j'ai pas copié quoi que ce soit et que j'ai jus
 
 # Just a few screenshots
 
-![](https://i.imgur.com/Feay3oJ.jpg)<br>![](https://i.imgur.com/KM6aloH.jpg)
+![](https://i.imgur.com/Feay3oJ.jpg)<br>![](https://i.imgur.com/bkl0r1q.jpg)<br>![](https://i.imgur.com/KM6aloH.jpg)<br>![](https://imgur.com/a/CXWCXvq)
